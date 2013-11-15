@@ -1,0 +1,17 @@
+User Manual:
+
+To Compile: copy glut/glut.h to include/GL, copy glut/glut32.dll to Windows/system, 
+copy glut/glut32.lib to lib/.  Add glut to you list of libraries.  Compile.
+
+To run: run ParticleSystem.exe.  If you get a messages saying that glut32.dll is missing, 
+copy  glut/glut32.dll to Windows/system.
+
+The program will display a fountain. Use the number keys to select a different particle 
+system simulation.
+1.  Fountain
+2.  Cyclone
+3.  Explosion – Click on the screen to produce explosions.
+4.  Bezier curves
+5.  Starfield
+6.  Fire
+7.  Galaxy

@@ -1,0 +1,11 @@
+bin/
+classes/
+pics/
+video/
+.svn/
+.metadata/
+*.class
+*.o
+*.d
+*.odt
+*.pdf
